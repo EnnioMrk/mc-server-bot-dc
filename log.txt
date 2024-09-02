@@ -1,0 +1,532 @@
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INFO] Loading Development Server
+[INFO] Loading Development Server
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Utility
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Testing
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Testing
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - ssh-start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - ssh-start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[SUCCESS] Logged in as: mc-server#5154
+[INTERACTION] MYST: Command - ssh-start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Testing
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Info
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - start
+[INFO] Loaded 1 command of type Info
+[INFO] Loading Development Server
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 event for Client.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - ssh-test
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 command of type Testing
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - ssh-test
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 event for Client.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - stop
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 1 event for Client.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] hmmm: Command - ping
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 4 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - stop
+[INTERACTION] MYST: Command - start
+[INTERACTION] MYST: Command - status
+[INTERACTION] MYST: Command - status
+[INTERACTION] hmmm: Command - ping
+[INTERACTION] hmmm: Command - status
+[INTERACTION] hmmm: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 3 events for GuildEvents.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Logged in as: mc-server#5154
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
+[INFO] Loading Development Server
+[INFO] Loaded 1 command of type Info
+[INFO] Loaded 1 command of type Testing
+[INFO] Loaded 1 event for Client.
+[INFO] Loaded 3 commands of type Utility
+[INFO] Loaded 3 events for GuildInteractions.
+[INFO] Loaded 1 autocomplete component
+[INFO] Loaded 3 events for GuildEvents.
+[SUCCESS] Logged in as: mc-server#5154
+[INFO] Started loading application commands... (this might take minutes!)
+[SUCCESS] Successfully loaded application commands to guild 1279732729054892033.
+[INTERACTION] MYST: Command - status
